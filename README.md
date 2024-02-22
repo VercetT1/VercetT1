@@ -31,9 +31,8 @@
 
   
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRhanllaDhvcGUwbXhwdnl2bWFuaWgxbTFmdnp3bXpzOW8wZ2V0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZZIEtQHmiTNwuxTOdt/giphy.gif" width="600">
+  <img src="giphy.gif" alt="animated" />
 </p>
-
 
 >Credit to dualvoidanima for this perfect gif :)
 
