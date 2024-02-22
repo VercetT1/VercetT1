@@ -1,15 +1,7 @@
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VercetT1&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="500" />
 
-  <div style="text-align: center">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VercetT1&count_private=true&show_icons=true&theme=prussian" width="400">
-        </p>
-     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VercetT1&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-        </p>
-  </div>
 
-  
 
 ### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -30,9 +22,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
   
-<p align="center">
-  <img src="giphy.gif" alt="animated" />
-</p>
+
+<img src="giphy.gif" alt="animated" />
+
 
 >Credit to dualvoidanima for this perfect gif :)
 
