@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamowdW9qMGNpcnR6ZGNra240d2J2aW8ybHQ3NXVzN2swbzhlajdtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6oCZKu0kFQyFM4eO59/giphy.gif" width="600">
-</p>
 
   <div style="text-align: center">
     <p align="center">
@@ -23,14 +20,21 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### Frameworks, Platforms and Libraries:
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
-  ### Frameworks, Platforms and Libraries:
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### IDEs/Editors:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
   
-  ### IDEs/Editors:
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRhanllaDhvcGUwbXhwdnl2bWFuaWgxbTFmdnp3bXpzOW8wZ2V0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZZIEtQHmiTNwuxTOdt/giphy.gif" width="600">
+</p>
+
+
+>Credit to dualvoidanima for this perfect gif :)
 
 
