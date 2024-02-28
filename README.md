@@ -1,3 +1,4 @@
+![download](https://github.com/VercetT1/VercetT1/assets/75687634/b2b06b97-355c-4813-b489-c91f37553d97)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VercetT1&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="500" />
 
@@ -23,9 +24,5 @@
 
   
 
-<img src="giphy.gif" alt="animated" />
-
-
->Credit to dualvoidanima for this perfect gif :)
 
 
