@@ -1,9 +1,6 @@
 
 ![download (1)](https://github.com/VercetT1/VercetT1/assets/75687634/1555ad51-9e3a-4f4b-82f6-90c1d8892bb0)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VercetT1&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="500" />
-
-
 
 ### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
