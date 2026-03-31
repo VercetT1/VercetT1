@@ -19,7 +19,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+  <div align="center">
+  <img src="https://github.com/VercetT1/VercetT1/blob/main/giphy.gif?raw=true" />
   
+  ### 🚀 Turning coffee into code, one commit at a time.
+</div>
 
 
 
