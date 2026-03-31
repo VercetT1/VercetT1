@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/VercetT1/VercetT1/assets/75687634/1555ad51-9e3a-4f4b-82f6-90c1d8892bb0" />
+<img src="https://github.com/VercetT1/VercetT1/assets/75687634/1555ad51-9e3a-4f4b-82f6-90c1d8892bb0" align="right" hspace="50" />
 
 <h3>Languages:</h3>
 
