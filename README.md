@@ -26,7 +26,8 @@
   <div align="center">
   <img src="https://github.com/VercetT1/VercetT1/blob/main/giphy.gif?raw=true" />
   
-  ### 🚀 Turning coffee into code, one commit at a time.
+  ### ✨ *"Dwell on the beauty of life. Watch the stars, and see yourself running with them."*
+  **— Marcus Aurelius**
 </div>
 
 
