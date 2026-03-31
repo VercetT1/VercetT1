@@ -22,10 +22,9 @@
 
 
 
-
-  <div align="center">
-  <img src="https://github.com/VercetT1/VercetT1/blob/main/giphy.gif?raw=true" />
+<div align="center">
+  <h3>✨ <em>"Well-being is realized by small steps, but is truly no small thing."</em></h3>
+  <strong>— Zeno of Citium</strong>
 </div>
-
 
 
